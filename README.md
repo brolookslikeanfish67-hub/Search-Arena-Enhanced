@@ -4,7 +4,7 @@
   <h1>Search Arena: Analyzing Search-Augmented LLMs</h1>
 
   <p>
-  <a href="https://legacy.lmarena.ai/?search">
+  <a href="https://arena.ai/search">
     <img src="https://img.shields.io/badge/⚔️-Search Arena-green" alt="Search Arena" />
   </a>
     &nbsp;
@@ -16,11 +16,11 @@
       <img src="https://img.shields.io/badge/HF-Dataset-orange?logo=huggingface&logoColor=white" alt="Dataset" />
     </a>
     &nbsp;
-  <a href="https://x.com/lmarena_ai">
-    <img src="https://img.shields.io/badge/LMArena--ai-white?logo=X&logoColor=000&color=000&logoColor=white" alt="X (Twitter)">
+  <a href="https://x.com/arena">
+    <img src="https://img.shields.io/badge/Arena.ai-white?logo=X&logoColor=000&color=000&logoColor=white" alt="X (Twitter)">
   </a>
     &nbsp;
-  <a href="https://iclr.cc/Conferences/2026">
+  <a href="https://iclr.cc/virtual/2026/poster/10009954">
     <img src="https://img.shields.io/badge/ICLR-2026-blueviolet?logo=google-scholar&logoColor=white" alt="ICLR 2026" />
   </a>
   </p>
@@ -31,7 +31,7 @@
 
 Welcome to the official code repository of **Search Arena**. Explore [⚔️ Search Arena](https://legacy.lmarena.ai/?search) and experiment with state-of-the-art Search-Augmented LLMs (new UI integration is coming soon)!
 
-**Paper**: [**Search Arena: Analyzing Search-Augmented LLMs (ICLR 2026)**](https://arxiv.org/abs/2506.05334)
+**Paper**: [**Search Arena: Analyzing Search-Augmented LLMs (ICLR 2026)**](https://iclr.cc/virtual/2026/poster/10009954)
 
 **Authors**: [Mihran Miroyan*](https://mmiroyan.github.io/), [Tsung-Han (Patrick) Wu*](https://tsunghan-wu.github.io/), [Logan King](https://www.linkedin.com/in/logan-king-8a4267281), [Tianle Li](https://codingwithtim.github.io), [Jiayi Pan](https://www.jiayipan.com/), [Xinyan Hu](https://sites.google.com/view/xinyanhu/), [Wei-Lin Chiang](https://infwinston.github.io/), [Anastasios N. Angelopoulos](https://people.eecs.berkeley.edu/~angelopoulos), [Trevor Darrell](https://people.eecs.berkeley.edu/~trevor/), [Narges Norouzi](https://nargesnorouzi.me//), [Joseph E. Gonzalez](https://people.eecs.berkeley.edu/~jegonzal/) (UC Berkeley)
 
